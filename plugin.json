@@ -1,0 +1,30 @@
+{
+  "name": "markmind",
+  "author": "ckminder",
+  "url": "https://github.com/MarkMindCkm/siyuan-markmind",
+  "version": "0.0.1",
+  "displayName": {
+    "default": "Markmind",
+    "zh_CN": "Markmind 思维导图"
+  },
+  "description": {
+    "default": "This is a mindmap plugin for siyuan",
+    "zh_CN": "这是一个基于思源 API 开发的思维导图插件"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "i18n": [
+    "en_US",
+    "zh_CN"
+  ],
+  "funding": {
+    "openCollective": "Markmind",
+    "patreon": "",
+    "github": "",
+    "custom": [
+      "https://www.markmind.net/siyuan"
+    ]
+  }
+}
