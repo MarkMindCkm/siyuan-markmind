@@ -1,4 +1,4 @@
-# 思源笔记-markmind 插件
+### 思源笔记-markmind 插件
 
 #### 本插件是基于 Markmind 开发，为国产思源笔记开发的一款思维导图插件，本插件源码并非公开，但是会向思源笔记开发人员公开。
 官网：https://www.markmind.net/siyuan
