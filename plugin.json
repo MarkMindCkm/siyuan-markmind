@@ -2,7 +2,8 @@
   "name": "markmind",
   "author": "ckminder",
   "url": "https://github.com/MarkMindCkm/siyuan-markmind",
-  "version": "0.0.6",
+  "version": "0.0.7",
+   "minAppVersion": "2.8.10",
   "displayName": {
     "default": "Markmind",
     "zh_CN": "Markmind 思维导图"
